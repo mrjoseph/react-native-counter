@@ -1,0 +1,21 @@
+dependencies: \
+  /Applications/ios-apps/TodoList/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Applications/ios-apps/TodoList/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

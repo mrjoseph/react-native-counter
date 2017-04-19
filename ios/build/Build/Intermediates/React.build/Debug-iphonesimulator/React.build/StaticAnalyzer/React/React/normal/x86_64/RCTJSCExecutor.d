@@ -1,0 +1,24 @@
+dependencies: \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTDefines.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Applications/ios-apps/TodoList/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTAssert.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTBridge.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTLog.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Applications/ios-apps/TodoList/node_modules/react-native/React/Base/RCTUtils.h
